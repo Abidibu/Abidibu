@@ -17,13 +17,6 @@
 
 Hello! I'm **Abigiya**, a Software Engineering student passionate about building meaningful digital products and solving real-world problems through technology.
 
-- 🎓 Software Engineering student at Jimma University.
-- 💻 Interested in Full-Stack Web Development.
-- 🎨 Passionate about UI/UX and beautiful user experiences.
-- 🚀 Building projects that turn ideas into reality.
-- 🌱 Currently exploring Machine Learning and Artificial Intelligence.
-- ✨ I believe in continuous learning and building with purpose.
-
 **My philosophy:** Learn. Build. Improve. Repeat.
 
 ---
@@ -60,41 +53,7 @@ Hello! I'm **Abigiya**, a Software Engineering student passionate about building
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
 </p>
 
----
 
-## 💎 Featured Projects
-
-### 01. Devora — E-Learning Platform
-
-An e-learning platform concept designed to make online education more accessible, featuring course management and an AI-powered learning assistant.
-
-**Technologies:** React, TypeScript, Node.js
-
-### 02. Doctor Appointment System
-
-A web-based appointment management system connecting patients and doctors, with appointment booking and management functionality.
-
-**Technologies:** Web Development, Database Management
-
-### 03. Online Bookstore
-
-An online bookstore application focused on digital book browsing, purchasing, and book management.
-
-**Technologies:** Python, Flask, Database
-
-### 04. Chat Application
-
-A communication application designed to support user-to-user messaging.
-
-**Technologies:** Python, Flask
-
-### 05. Assignment Collector Bot
-
-A bot project designed to simplify assignment collection and submission management.
-
-**Technologies:** Python
-
----
 
 ## 📊 GitHub Statistics
 
@@ -112,9 +71,7 @@ A bot project designed to simplify assignment collection and submission manageme
 ## 🌱 Currently Learning
 
 - Machine Learning and Artificial Intelligence.
-- Advanced React and TypeScript.
-- Backend architecture and API development.
-- Building scalable and maintainable applications.
+
 
 ---
 
