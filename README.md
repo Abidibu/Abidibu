@@ -1,4 +1,4 @@
-# Hi, I'm Abigiya T!
+# Hi, I'm Abigiya !
 
 <h3 align="center">Software Engineer - Full-Stack Developer</h3>
 
