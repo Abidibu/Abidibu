@@ -1,6 +1,6 @@
-# ✨ Hi, I'm Abigiya!
+# Hi, I'm Abigiya T!
 
-<h3 align="center">Software Engineer | Full-Stack Developer</h3>
+<h3 align="center">Software Engineer - Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=22&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Reality;Creating+Beautiful+Digital+Experiences;Passionate+About+Technology;Always+Learning%2C+Always+Growing" />
