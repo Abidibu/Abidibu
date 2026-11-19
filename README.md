@@ -144,6 +144,4 @@ I'm always interested in connecting with developers, collaborating on projects, 
   <i>"Great things are built one line of code at a time."</i>
 </p>
 
-<p align="center">
-  ✨ Thank you for visiting my profile! ✨
-</p>
+
