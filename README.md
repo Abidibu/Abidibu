@@ -54,18 +54,6 @@ Hello! I'm **Abigiya**, a Software Engineering student passionate about building
 </p>
 
 
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abidibu&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=D4AF37&text_color=EAEAEA&icon_color=D4AF37&border_color=3A3020&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abidibu&layout=compact&theme=dark&bg_color=0D0D0D&title_color=D4AF37&text_color=EAEAEA&border_color=3A3020" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abidibu&theme=dark&background=0D0D0D&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=EAEAEA&border=3A3020" />
-</p>
-
 ---
 
 ## 🌱 Currently Learning
